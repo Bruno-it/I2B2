@@ -1,0 +1,25 @@
+.button1{
+    background-color: aqua;
+    color: rgb(0, 47, 255);
+    width: 110px;
+    height: 70px;
+    transition-duration: 1s;
+}
+
+.button1:hover {
+    background-color: #000000;
+    color: white;
+    scale: 1.1;
+  }
+  .button2{
+    background-color: aqua;
+    color: blueviolet;
+    width: 110px;
+    height: 70px;
+    transition-delay: 1s;
+  }
+  .button2:hover{
+    background-color: antiquewhite;
+    color: aquamarine;
+    scale: 1.1;
+  }
